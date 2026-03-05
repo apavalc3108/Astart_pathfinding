@@ -48,7 +48,6 @@ Donde:
 1.  **Clonar el repositorio:**
     ```bash
    git clone [https://github.com/apavalc3108/Astart_pathfinding.git](https://github.com/apavalc3108/Astart_pathfinding.git)
-   
    cd Astart_pathfinding
     ```
 
