@@ -43,7 +43,7 @@ Donde:
 * **Exploración Visual:** Se muestran las celdas analizadas (Open Set) en azul para entender cómo el algoritmo "descarta" caminos ineficientes.
 * **Editor Dinámico:** Permite crear circuitos personalizados activando o desactivando muros mediante un editor de datos integrado.
 
-## 🚀 Instalación y Despliegue
+## 🚀🐍 Instalación y Despliegue en Anaconda
 
 1.  **Clonar el repositorio:**
     ```bash
@@ -58,7 +58,7 @@ Donde:
 
 3.  **Lanzar el motor:**
     ```bash
-    python -m streamlit run path pavon_adrian_astar_pathfinding.py
+    python -m streamlit run pavon_adrian_astar_pathfinding.py
     ```
 
 ## 📊 Panel de Telemetría
