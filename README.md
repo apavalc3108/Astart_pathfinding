@@ -58,7 +58,7 @@ Donde:
 
 3.  **Lanzar el motor:**
     ```bash
-    streamlit run app.py
+    python -m streamlit run path nombre_archivo.py
     ```
 
 ## 📊 Panel de Telemetría
