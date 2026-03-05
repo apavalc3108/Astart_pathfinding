@@ -47,8 +47,8 @@ Donde:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/apavalc3108/a-star-racing.git](https://github.com/tu-usuario/a-star-racing.git)
-    cd a-star-racing
+   git clone [https://github.com/apavalc3108/Astart_pathfinding.git](https://github.com/apavalc3108/Astart_pathfinding.git)
+   cd Astart_pathfinding
     ```
 
 2.  **Instalar dependencias:**
