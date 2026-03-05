@@ -47,8 +47,8 @@ Donde:
 
 1.  **Clonar el repositorio:**
     ```bash
-   git clone [https://github.com/apavalc3108/Astart_pathfinding.git](https://github.com/apavalc3108/Astart_pathfinding.git)
-   cd Astart_pathfinding
+    git clone https://github.com/apavalc3108/Astart_pathfinding.git
+    cd Astart_pathfinding
     ```
 
 2.  **Instalar dependencias:**
@@ -58,7 +58,7 @@ Donde:
 
 3.  **Lanzar el motor:**
     ```bash
-    python -m streamlit run path nombre_archivo.py
+    python -m streamlit run path pavon_adrian_astar_pathfinding.py
     ```
 
 ## 📊 Panel de Telemetría
