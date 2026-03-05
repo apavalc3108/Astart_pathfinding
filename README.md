@@ -47,7 +47,7 @@ Donde:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/a-star-racing.git](https://github.com/tu-usuario/a-star-racing.git)
+    git clone [https://github.com/apavalc3108/a-star-racing.git](https://github.com/tu-usuario/a-star-racing.git)
     cd a-star-racing
     ```
 
