@@ -1,5 +1,4 @@
 # Astart_pathfinding
-Código en py, con funcionamiento del algoritmo y representación
 # 🏎️ A* RACING: Pathfinding Engine
 ### Desarrollado por **Adrián Pavón**
 
@@ -8,7 +7,7 @@ Código en py, con funcionamiento del algoritmo y representación
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-**A* Racing** es un simulador de navegación autónoma que implementa el algoritmo **A-Star (A*)** para encontrar la trayectoria óptima en circuitos de carreras complejos. El motor calcula en milisegundos la ruta más corta evitando colisiones con muros y chicanes, visualizando el proceso mediante una interfaz de alto rendimiento.
+**A* Racing es un simulador de navegación autónoma que implementa el algoritmo **A-Star (A*)** para encontrar la trayectoria óptima en circuitos de carreras complejos. El motor calcula en milisegundos la ruta más corta evitando colisiones con muros y chicanes, visualizando el proceso mediante una interfaz de alto rendimiento.
 
 
 
